@@ -1,8 +1,5 @@
 # IDX Exchange
 
- IDX Exchange DS56
-
-## Week 1 — Orientation & Setup
 
 ### ds56
 
